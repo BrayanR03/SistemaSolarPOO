@@ -1,0 +1,13 @@
+PASOS PARA CREAR UN SISTEMA DE POO EN PYTHON
+
+1. Aplicar el pilar de POO: Abstracción: 
+   - Abstraer la lógica del mundo real en nuestro sistema.
+   - Permitirá representar el sistema solar, en nuestro sistema Python.
+   - Crear archivos por separado.
+2. Creación de clases en los archivos creados.
+   - Definimos sus constructores y respectivos atributos de instancia.
+3. Aplicar el pilar de POO: Herencia
+4. Aplicar el pilar de POO: Polimorfismo
+5. Instancia de objetos.
+6. Encapsulamiento
+7. Polimorfismo
